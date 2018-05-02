@@ -1,8 +1,8 @@
-var greeting = "Everyone Leave, Now!";
+var greeting = "Hello, everybody!";  // My preference was "Everyone Leave... Now!"
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "Suck it, " + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!"; //Prefernce "Suck it, "
 
 var topic = "space";
 
